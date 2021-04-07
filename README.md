@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mihai
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning node js
-- 💞️ I’m looking to collaborate on full stack aplications
+- 👀 I’m interested in front end eveloper 
+- 🌱 I’m currently learning Reactjs
+- 💞️ I’m looking to collaborate on UI , UX && JS / React 
 - 📫 How to reach me @mafezgeek on twitter 
 
 <!---
